@@ -1,0 +1,24 @@
+
+{
+   "chat_id": "d1d2s3",
+   "conversation": [
+        {
+            "question": "bla bla?",
+            "q_type": 1,
+            "answer": ""
+        },
+        {
+            "question": "How many years of Truck Driving experience do you have?",
+            "q_type": 2,
+            "answer": {"min": 0, "max": 30}
+        },
+        {
+            "question": "bla bla?",
+            "q_type": 3,
+            "answer": ["yes", "no"]
+        },
+        .
+        .
+        .
+   ]
+}
